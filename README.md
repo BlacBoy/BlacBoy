@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @BlacBoy
-- 👀 I’m interested in Game Development and Animation
-- 🌱 I’m currently learning Game Development related tools (such as Blender 3D, Unity 3D), Animation, Lua, C#
+- 👀 I’m interested in WebApps, Game Development and Animation
+- 🌱 I’m currently a hobbyist 3D Modeller/Artist (proficient with tools such as Blender 3D, MagickaVoxel)
+- 🌱 I’m also a hobbyist Game Developmer (proficient with tools such as Unreal Engine, Unity 3D, C#)
+- 🌱 I do dabble as a hobbyist Animator (proficient with tools such as Unreal Engine Take, OpenToonz, DaVinci Resolve Fusion)
 - 💞️ I’m looking to collaborate on projects in the following areas: 3D Modelling/Sculpting, Animations (2D/3D), Visual Scripting
 - 📫 How to reach me blacboy@protonmail.com, spikdespartan@yahoo.com
 
